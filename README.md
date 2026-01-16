@@ -27,6 +27,9 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+
+![Lab0gif](https://github.com/user-attachments/assets/9c5db125-b06d-4c56-9c91-0f07d9b506be)
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
